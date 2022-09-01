@@ -7,3 +7,7 @@ The idea is to move this local git repo to GitHub repo in this example..
 
 adding paragraph 2 for making new commit..
 
+----
+
+adding paragraph 3 for making new commit..
+
